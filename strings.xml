@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyTVShows</string>
+    <string name="show">Shows</string>
+    <string name="choose_shows">Choose shows</string>
+    <string-array name="choose_genre">
+        <item>Comedy</item>
+        <item>Fantasy</item>
+        <item>Horror</item>
+        <item>Fiction</item>
+        <item>Criminal</item>
+    </string-array>
+</resources>
